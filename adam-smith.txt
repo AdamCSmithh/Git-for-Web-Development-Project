@@ -127,7 +127,7 @@ Stretch Questions
 	<p>, <section>, and <h1> are block elements, <span> and <a> tags are inline elements, and <button> is an inline-block element. 
 
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
-	The box model uses content, padding, border, and margin to style elements within a web page. The fix to the box model is the box-sizing property. 
+	The box model uses content, padding, border, and margin to style elements within a web page. The fix to the box model is the box-sizing property.. 
 
 
 
